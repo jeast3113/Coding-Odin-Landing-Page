@@ -15,6 +15,14 @@ body {
     justify-content: space-around;
 }
 
+.header-section-1 {
+    padding-bottom: 48px;
+}
+
+.header-section-2 {
+    padding-bottom: 48px;
+}
+
 .header-container-1, .header-container-2, .header-container-4 {
     display: flex;
     justify-content: center;
@@ -47,6 +55,8 @@ h1, p, .header-image {
 
 p {
     width: 300px;
+    margin: 0;
+    padding: 0;
 }
 
 .signup-button {
