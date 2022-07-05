@@ -75,3 +75,27 @@ p {
 
 /* ****************** */
 
+/* INFORMATION SECTION 2  */
+
+.information-title-container-section-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 24px;
+    padding: 24px;
+}
+
+.information-container-section-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.information {
+    width: 200px;
+}
+
+/* ****************** */
+
+
+
