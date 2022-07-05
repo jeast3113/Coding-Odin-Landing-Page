@@ -85,6 +85,16 @@ p {
     padding: 24px;
 }
 
+.information-title {
+    background-color: black;
+    color: #adff2f;
+    font-size: 48px;
+    font-weight: 500;
+    border: #5b8f0c solid 2px;
+    padding: 16px;
+    border-radius: 20px;
+}
+
 .information-container-section-2 {
     display: flex;
     justify-content: center;
