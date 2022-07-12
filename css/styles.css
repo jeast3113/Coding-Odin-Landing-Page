@@ -119,5 +119,43 @@ p {
 
 /* ****************** */
 
+/* QUOTE SECTION 3 */
+
+.quote-box-container-section-3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 36px;
+    padding: 48px;
+    margin-left: auto;
+}
+
+.quote-box {
+    background-color: black;
+    border-radius: 10px;
+}
+
+.quote {
+    color: #adff2f;
+    font-size: 42px;
+    width: 700px;
+    font-style: italic;
+}
+
+.quote-name {
+    color: #adff2f;
+    font-size: 24px;
+    display: flex;
+    justify-content: flex-end;
+    margin: 8px;
+    padding: 8px;
+}
+
+
+
+
+
+/* ****************** */
+
 
 
