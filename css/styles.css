@@ -157,4 +157,26 @@ p {
 /* ****************** */
 
 
+/* SIGN UP SECTION 4 */
+
+.signup-box-container-section-4 {
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    padding: 8px;
+}
+
+.sign-up-information {
+    margin: auto;
+}
+
+.signup-button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+/* ****************** */
+
 
