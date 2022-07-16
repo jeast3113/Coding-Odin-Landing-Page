@@ -161,13 +161,24 @@ p {
 
 .signup-box-container-section-4 {
     background-color: black;
+    padding: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.border-box-section-4 {
+    width: 730px;
     display: flex;
     justify-content: space-around;
-    padding: 8px;
+    align-items: center;
+    border: #5b8f0c solid 2px;
+    margin-right: 40px;
 }
 
 .sign-up-information {
     margin: auto;
+    padding-bottom: 16px;
 }
 
 .signup-button-container {
