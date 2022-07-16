@@ -180,6 +180,7 @@ p {
     align-items: center;
     border: #5b8f0c solid 2px;
     margin-right: 40px;
+    border-radius: 5px;
 }
 
 .sign-up-information {
