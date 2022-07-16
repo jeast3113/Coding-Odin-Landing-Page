@@ -190,4 +190,14 @@ p {
 
 /* ****************** */
 
+/* FOOTER SECTION LAST  */
 
+.footer-section-last {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 16px;
+    padding: 16px;
+}
+
+/* ****************** */
